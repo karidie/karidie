@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./materials/UI_Eng.png" width="40" height="16">
+ <img src="./materials/UI_Eng.png" width="80" height="32">
 </p>
 <p align="center">
  <span style="font-size:24px;">I don't know who you are.</span> <br>
